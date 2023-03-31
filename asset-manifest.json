@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/youtube_test/static/css/main.073c9b0a.css",
-    "main.js": "/youtube_test/static/js/main.4473ae98.js",
+    "main.js": "/youtube_test/static/js/main.cf83710d.js",
     "static/js/787.56a2d66e.chunk.js": "/youtube_test/static/js/787.56a2d66e.chunk.js",
-    "static/media/graph.png": "/youtube_test/static/media/graph.5919592e83d99f2447bd.png",
+    "static/media/graph.png": "/youtube_test/static/media/graph.bf0129e6af0c21b07f71.png",
     "static/media/temp.png": "/youtube_test/static/media/temp.ffaa88acf1d632cd3266.png",
-    "static/media/rental.png": "/youtube_test/static/media/rental.532e42eeb34dc7eb701b.png",
     "static/media/devices.png": "/youtube_test/static/media/devices.a2ea0378e2c39d75b179.png",
+    "static/media/jindan.png": "/youtube_test/static/media/jindan.88b87e5f2c5326f84b87.png",
+    "static/media/rental.png": "/youtube_test/static/media/rental.7d47fce39799a287122d.png",
     "index.html": "/youtube_test/index.html",
     "main.073c9b0a.css.map": "/youtube_test/static/css/main.073c9b0a.css.map",
-    "main.4473ae98.js.map": "/youtube_test/static/js/main.4473ae98.js.map",
+    "main.cf83710d.js.map": "/youtube_test/static/js/main.cf83710d.js.map",
     "787.56a2d66e.chunk.js.map": "/youtube_test/static/js/787.56a2d66e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4473ae98.js"
+    "static/js/main.cf83710d.js"
   ]
 }
